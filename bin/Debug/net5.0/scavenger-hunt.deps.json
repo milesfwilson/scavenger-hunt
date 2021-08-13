@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "scavenger-hunt/1.0.0": {
+        "runtime": {
+          "scavenger-hunt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "scavenger-hunt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

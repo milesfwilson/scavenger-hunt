@@ -1,0 +1,16 @@
+C:\Users\miles.wilson\source\repos\scavenger-hunt\bin\Debug\net5.0\scavenger-hunt.exe
+C:\Users\miles.wilson\source\repos\scavenger-hunt\bin\Debug\net5.0\scavenger-hunt.deps.json
+C:\Users\miles.wilson\source\repos\scavenger-hunt\bin\Debug\net5.0\scavenger-hunt.runtimeconfig.json
+C:\Users\miles.wilson\source\repos\scavenger-hunt\bin\Debug\net5.0\scavenger-hunt.runtimeconfig.dev.json
+C:\Users\miles.wilson\source\repos\scavenger-hunt\bin\Debug\net5.0\scavenger-hunt.dll
+C:\Users\miles.wilson\source\repos\scavenger-hunt\bin\Debug\net5.0\ref\scavenger-hunt.dll
+C:\Users\miles.wilson\source\repos\scavenger-hunt\bin\Debug\net5.0\scavenger-hunt.pdb
+C:\Users\miles.wilson\source\repos\scavenger-hunt\obj\Debug\net5.0\scavenger-hunt.csprojAssemblyReference.cache
+C:\Users\miles.wilson\source\repos\scavenger-hunt\obj\Debug\net5.0\scavenger-hunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles.wilson\source\repos\scavenger-hunt\obj\Debug\net5.0\scavenger-hunt.AssemblyInfoInputs.cache
+C:\Users\miles.wilson\source\repos\scavenger-hunt\obj\Debug\net5.0\scavenger-hunt.AssemblyInfo.cs
+C:\Users\miles.wilson\source\repos\scavenger-hunt\obj\Debug\net5.0\scavenger-hunt.csproj.CoreCompileInputs.cache
+C:\Users\miles.wilson\source\repos\scavenger-hunt\obj\Debug\net5.0\scavenger-hunt.dll
+C:\Users\miles.wilson\source\repos\scavenger-hunt\obj\Debug\net5.0\ref\scavenger-hunt.dll
+C:\Users\miles.wilson\source\repos\scavenger-hunt\obj\Debug\net5.0\scavenger-hunt.pdb
+C:\Users\miles.wilson\source\repos\scavenger-hunt\obj\Debug\net5.0\scavenger-hunt.genruntimeconfig.cache
